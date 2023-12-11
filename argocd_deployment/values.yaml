@@ -1,0 +1,3 @@
+# values.yaml
+global:
+  name: my-argocd

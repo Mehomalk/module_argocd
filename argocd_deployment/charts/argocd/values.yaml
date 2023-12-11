@@ -1,0 +1,6 @@
+# values.yaml
+server:
+  ingress:
+    enabled: true
+    hosts:
+      - argocd.example.com
