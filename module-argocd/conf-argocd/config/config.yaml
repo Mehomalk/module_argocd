@@ -1,0 +1,4 @@
+repositories:
+- url: https://github.com/mehomalk
+  type: helm
+  name: my-helm-repo
