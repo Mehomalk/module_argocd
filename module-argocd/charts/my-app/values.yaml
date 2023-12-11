@@ -1,0 +1,4 @@
+replicaCount: 1
+image:
+  repository: my-app-repo
+  tag: latest
